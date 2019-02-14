@@ -1,0 +1,104 @@
+Initialize engine version: 5.6.3p2 (b3d7a6428558)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   25.21.14.1701
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Desktop Common\Folders\Unity\Standalone Builds\Space Bowl v1.0\SpaceBowl v1.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Desktop Common\Folders\Unity\Standalone Builds\Space Bowl v1.0\SpaceBowl v1.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Desktop Common\Folders\Unity\Standalone Builds\Space Bowl v1.0\SpaceBowl v1.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Desktop Common\Folders\Unity\Standalone Builds\Space Bowl v1.0\SpaceBowl v1.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Desktop Common\Folders\Unity\Standalone Builds\Space Bowl v1.0\SpaceBowl v1.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Desktop Common\Folders\Unity\Standalone Builds\Space Bowl v1.0\SpaceBowl v1.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Desktop Common\Folders\Unity\Standalone Builds\Space Bowl v1.0\SpaceBowl v1.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Desktop Common\Folders\Unity\Standalone Builds\Space Bowl v1.0\SpaceBowl v1.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.038 seconds
+Platform assembly: D:\Desktop Common\Folders\Unity\Standalone Builds\Space Bowl v1.0\SpaceBowl v1.0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Desktop Common\Folders\Unity\Standalone Builds\Space Bowl v1.0\SpaceBowl v1.0_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on MusicManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.589683 ms
+Don't destroy on load: Persistent Music Manager
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Music Player Awake, 620
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Music Player Start, 620
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.796413 ms
+Playing clip: 02 Ophilia, The Cleric (UnityEngine.AudioClip)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 297.
+Total: 0.669681 ms (FindLiveObjects: 0.079768 ms CreateObjectMapping: 0.051942 ms MarkObjects: 0.526841 ms  DeleteObjects: 0.008347 ms)
+
+Auto load disabled, use a positive number in seconds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Level load requested for: 02 Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.750262 ms
+Playing clip: Undella in Summer (2nd Remix) (UnityEngine.AudioClip)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 748.
+Total: 0.750377 ms (FindLiveObjects: 0.058434 ms CreateObjectMapping: 0.043594 ms MarkObjects: 0.620522 ms  DeleteObjects: 0.025971 ms)
+
+Auto load disabled, use a positive number in seconds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 2f60 -> priority: 1 
+  Thread -> id: e3c -> priority: 1 
+  Thread -> id: 1b64 -> priority: 1 
+  Thread -> id: 1904 -> priority: 1 
+  Thread -> id: 1280 -> priority: 1 
+  Thread -> id: 4f8 -> priority: 1 
+Level load requested for: 01a Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.913045 ms
+Playing clip: 02 Ophilia, The Cleric (UnityEngine.AudioClip)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 300.
+Total: 1.357914 ms (FindLiveObjects: 0.090434 ms CreateObjectMapping: 0.050550 ms MarkObjects: 0.510145 ms  DeleteObjects: 0.704000 ms)
+
+Auto load disabled, use a positive number in seconds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Quitting the game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
